@@ -7,3 +7,9 @@ draft: true
 ## So where to start?
 
 I need some content here ;)
+
+```js
+module.exports = {
+  message: "Hello World!"
+}
+```
