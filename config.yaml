@@ -1,4 +1,4 @@
-baseURL: "http://example.org/"
+baseURL: "https://techies-cdv.github.io/"
 languageCode: "en-us"
 title: "Techies"
 theme: "PaperMod"
@@ -22,9 +22,9 @@ params:
     Content: Welcome to the club!
   socialIcons:
     - name: instagram
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/techies_cdv/"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/techies-cdv"
 
   # post related
   ShowReadingTime: true
@@ -44,7 +44,7 @@ params:
   tocopen: false
 
   editPost:
-    URL: "https://github.com/atakanzen/techies/blob/main/content"
+    URL: "https://github.com/techies-cdv/techies-cdv.github.io/blob/main/content/"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
