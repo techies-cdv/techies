@@ -44,7 +44,7 @@ params:
   tocopen: false
 
   editPost:
-    URL: "https://github.com/atakanzen/techies/content"
+    URL: "https://github.com/atakanzen/techies/blob/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
