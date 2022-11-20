@@ -9,7 +9,18 @@ minify:
   disableXML: true
   minifyOutput: true
 
+markup:
+  highlight:
+    # anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: false
+    style: github-dark
+
 params:
+  # Internal
+  assets:
+    disableHLJS: true
   # SEO related
   title: Techies
   description: "A technology club from Poznan, Poland!"
