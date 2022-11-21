@@ -45,7 +45,11 @@ We are a club in the making[^1]. However, we have already some plans that we are
 - Face-to-face or online meetings with talented people from the tech industry. 
 - Book discussion sessions.
 
-We believe all these things will help us to get better at helping people with technology. 
+We believe all these things will help us to get better at helping people with technology. But, we still need your help!
+
+Please fill out [this form](https://forms.gle/fBXTFAFnNk6q1vqa6) to help us understand what do you need from us. 
+
+If you have any questions, feel free to contact us from [here](mailto:techies.cdv@gmail.com).
 
 Thanks for reading, and have a good one!
 
